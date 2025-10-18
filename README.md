@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hello, I'm Shimaa Abdelmoaty 👋  
 
-<!--
-**Shimaa-Abdelmoaty/Shimaa-Abdelmoaty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💫 About Me  
+I'm a Front-End Developer passionate about crafting responsive, accessible, and user-friendly web applications.  
+I specialize in **React.js** and **modern UI frameworks**, focusing on delivering seamless digital experiences with clean, maintainable code.  
 
-Here are some ideas to get you started:
+✔ Expertise in **modern frontend development** with a strong eye for design and usability.  
+✔ Skilled in **API integration**, **state management**, and **responsive layouts**.  
+✔ Experienced in building **scalable web apps** optimized for performance and SEO.  
+✔ Collaborative team player with excellent communication and problem-solving skills.  
+✔ Continuously learning and adapting to the latest technologies in web development.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 Current Roles  
+🎯 **Frontend Developer @ Programs House** – Developing dynamic and responsive web applications for clients across various industries.  
+🎯 **Software Engineer @ Medical Islands** – Crafting intuitive, high-performance solutions to serve +10.000 clients.  
+📚 **Graduate of Computer Science** – Strengthening technical foundations and analytical skills in computing and information systems.  
+
+---
+
+## 💻 Tech Stack  
+
+### 🖥️ Frontend  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,js,html,css" />
+</p>
+
+### 🛠️ Design & Workflow  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,postman,atlassian" />
+</p>
+
+---
+
+## 🚀 What I’m Focusing On  
+🔹 Enhancing UI/UX through performance optimization and accessibility.  
+🔹 Building multilingual and scalable front-end architectures.  
+🔹 Exploring advanced React patterns.  
+🔹 Collaborating on impactful open-source projects.  
+
+---
+
+## 📫 Connect With Me  
+💼 [LinkedIn](https://www.linkedin.com/in/shimaa-abdelmoaty)  
+📧 **shimaaabdelmoaty02@gmail.com**  
+
+---
+
+⭐ *"Code with purpose, design with empathy, and build for everyone."*  
