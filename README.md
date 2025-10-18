@@ -28,7 +28,8 @@ I specialize in **React.js** and **modern UI frameworks**, focusing on deliverin
 
 ### 🛠️ Design & Workflow  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,postman,atlassian" />
+  <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,postman" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="48" height="48" alt="Trello" />
 </p>
 
 ---
